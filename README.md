@@ -33,7 +33,7 @@
 - Dopravní Systémy a Urbanismus
 - Simulace Epidemií
 
-## Kapitola 5: Umělá Život a Evoluce
+## Kapitola 5: Umělý život a Evoluce
 - Definice a Přístupy k Umělému Životu
 - Evoluce a Genetické Algoritmy v Celulárních Automatech
 - Emergentní Chování a Samoorganizace
